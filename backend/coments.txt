@@ -1,0 +1,15 @@
+mongodb+srv://danubio:<password>@cluster0-ashik.mongodb.net/test?retryWrites=true&w=majority
+
+mongodb+srv://danubio:bancomongo@cluster0-ashik.mongodb.net/semana10?retryWrites=true&w=majority
+
+Métodos HTTP: GET, POST, PUT, DELETE
+
+Tipos de parametros:
+Query Params: request.query(Filtros, ordenação, paginação...)
+Route params: request.params(Identificar recurso de alteração ou remoção) 
+Body: request.body (Dados para criação ou alteração de um registro)
+
+#Cadastrar rotas no index.js com app.use()
+
+#Dentro de uma pasta models, registrar as entidades do nosso banco de dados. Cada entidade 
+deve ter um arquivo de configuração próprio chamando a classe "Schema" do mongoose.
