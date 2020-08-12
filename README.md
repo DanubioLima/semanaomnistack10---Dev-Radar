@@ -34,9 +34,9 @@ Pronto, sua aplicação está rodando!
 ## Tecnologias Utilizadas
 
 * NodeJS - ambiente de execução Javascript usado no backend como servidor.
-* SQLite - banco de dados relacional usado para persistir as informações
-* Express - middleware de roteamento usado no backend da aplicação
+* MongoDB - banco de dados NoSQL usado para persistir as informações.
+* Express - middleware de roteamento usado no backend da aplicação.
 * React - biblioteca JS usada para construir interfaces de usuário.
-* React Native- framework JS baseado em React feito para construção de app mobile nativos
-* Expo- framework JS que facilita a construção de apps com React Native
+* React Native- framework JS baseado em React feito para construção de app mobile nativos.
+* Expo- framework JS que facilita a construção de apps com React Native.
 * Axios - cliente HTTP feito em Javascript.
