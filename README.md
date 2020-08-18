@@ -3,7 +3,7 @@ que cadastra programadores. O usuário pode criar uma conta e encontrar devs que
 
 ## Instalação
 
-Para instalar o projeto, faça o clone do repositório em sua máquina usando `git clone`, entre na pasta `backend` e execute:
+Para instalar o projeto, faça o clone do repositório em sua máquina usando `git clone https://github.com/DanubioLima/semanaomnistack10---Dev-Radar.git`, entre na pasta `backend` e execute:
 
 `yarn install`
 
